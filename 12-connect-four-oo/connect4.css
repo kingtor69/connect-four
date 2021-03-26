@@ -55,15 +55,14 @@ input {
     font-size: 1em;
 }
 
-#players {
+/*#players {
     font-size: 2em;
-}
-
+}*/
 button {
     display: block;
     position: relative;
     top: 30px;
-    font-size: 2rem;
+    font-size: 1rem;
     font-family: 'Cairo', 'Roboto', 'Montserrat', 'Open Sans', sans-serif;
     color: white;
     outline: none;
